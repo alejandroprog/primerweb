@@ -1,0 +1,128 @@
+
+*{
+  box-sizing: border-box;
+}
+
+body {
+    background-color: #303232;
+    width: 100%;
+    max-width: 100%;
+}
+
+
+
+    
+
+.contenedortexto {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    box-shadow: 8px 8px 39px;
+    display: flex;
+    flex-direction: column;
+    background-color: #8494ff;
+    overflow: hidden;
+}
+
+.encabezado {
+    font-size: 40px;
+    color: white;
+    text-shadow: 3px 3px 10px blue;
+    margin-left: 30px;
+    
+}
+
+.textocontenedor{
+    font-size: 70px;
+    color: blanchedalmond;
+    margin-left: 200px;
+    
+
+}
+
+
+.contenedor {
+    margin-top: 15px;
+   margin-left: 95px;
+   margin-right: 100px;
+    display: flex; 
+    flex-direction: row;
+   
+}
+
+.item1 {
+    min-width: auto;
+    min-height: auto;
+    font-family: sans-serif;
+    background: #8494ff;
+    width: 25%;
+    margin-left: center;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 1px 1px 10px;
+}
+
+.item2 { 
+    min-width: auto;
+    min-height: auto;
+    font-family: sans-serif;
+    background: #8494ff;
+    width: 25%;
+    margin-left: center;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 1px 1px 40px;
+    margin-left: 150px;
+}
+
+.item3 { 
+    min-width: auto;
+    min-height: auto;
+    font-family: sans-serif;
+     background: #8494ff;
+     width: 25%;
+     margin-left: center;
+     border-radius: 15px;
+     text-align: center;
+     box-shadow: 1px 1px 40px;
+     margin-left: 120px;
+}
+
+
+/*-- holaaa --*/
+
+/*-- imagenes final --*/
+
+.contenedorimagenes { 
+    
+    margin: 24px 100px 24px 100px; 
+    display: flex; 
+    flex-direction: row;
+    overflow: hidden;
+    border: solid 15px yellow;
+    border-radius: 15px 0px 15px 0px;
+
+    
+}
+
+
+.contenedorimagenes1 { 
+    
+    margin: 24px 100px 24px 100px; 
+    display: flex; 
+    flex-direction: row;
+    overflow: hidden;
+}
+
+.lago {
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    box-shadow: 8px 8px 35px #000000;
+
+}
+
+
